@@ -1,0 +1,1 @@
+ip -6 adds add  2001:cc0:2026:5::1/64 dev eth1

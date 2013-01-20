@@ -1,0 +1,10 @@
+1  . loadmodule
+2  ./mn
+
+3. link to FA: iwconfig ath1 assid cub
+
+
+PS: main.cc: line 128: fix ha4, ha6, hoax, hoax 
+for FA: need fix code in file mn.cpp line 639
+/home/qoszyy/qos
+~/dsmipv6_mn_2011_9_16/src

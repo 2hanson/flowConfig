@@ -1,0 +1,2 @@
+1、以管理员身份运行Command Prompt2、netsh 回车3、interface回车4、ipv6回车5、add route 3ffe:501:ffff::1/128(3ffe:501:ffff::1/64) "本地连接" 2001:cc0:2026:3:4687:fcff:fed6:c35d
+

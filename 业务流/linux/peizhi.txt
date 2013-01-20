@@ -1,0 +1,9 @@
+1. cd /home/ybx/java/
+2. ./eclipse
+
+cd /home/ybx/java/jmi/bin
+
+jmi1, jmistu3
+
+
+配置到3ffe的包发过ha的路由

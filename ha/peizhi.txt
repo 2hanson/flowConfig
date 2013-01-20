@@ -1,0 +1,4 @@
+1 . conf_table.sh
+2  . loadmodule
+3  ./ha
+
